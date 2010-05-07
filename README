@@ -1,4 +1,10 @@
+Description:
+Simple Dropbox command line uploader
+
+Requirements:
+mechanize 
+
 Usage:
-python dropbox-upload your@email.com /dropbox_directory/
+python dropbox-upload your@email.com your_file_path /dropbox_directory/
 
 If you don't want to be prompted for a password, you can set up DROPBOX_PASSWORD environment variable
