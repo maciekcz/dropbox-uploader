@@ -1,2 +1,2 @@
 Usage:
-python dropbox your@email.com your_password /directory/
+python dropbox your@email.com your_password /dropbox_directory/
