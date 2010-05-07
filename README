@@ -1,2 +1,4 @@
 Usage:
-python dropbox-upload your@email.com your_password /dropbox_directory/
+python dropbox-upload your@email.com /dropbox_directory/
+
+If you don't want to be prompted for a password, you can set up as DROPBOX_PASSWORD environment variable
